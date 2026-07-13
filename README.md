@@ -1,54 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-## 🚀 Pratik Sharma
+# Pratik Sharma
 
-**Aspiring Data Scientist | Web Developer | Problem Solver**
+**Aspiring AI Engineer · Data Scientist · Web Developer**
 
----
+*Building intelligent solutions through curiosity, consistency, and code.*
 
-### 🧠 About Me
+[LinkedIn](https://www.linkedin.com/in/pratik-sharma-854641279/) · [Medium](https://medium.com/@pratikacharya527) · pratikacharya527@gmail.com
 
-I’m a passionate learner focused on building strong foundations in **Data Science** and **Web Development**.
-I enjoy turning data into insights and ideas into real-world applications.
-
----
-
-### ⚡ What I Do
-
-* 📊 Analyze and work with data using **Python**
-* 🧮 Use libraries like **NumPy** and **Pandas** for efficient computation
-* 🌐 Learning to Build modern and responsive web applications
-* 🧩 Solve problems and continuously improve my skills
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## About Me
 
-**Languages**
-`Python` | `JavaScript` | `HTML` | `CSS`
+I'm an aspiring AI Engineer and Data Scientist from Nepal, passionate about solving real-world problems through technology. I enjoy learning the mathematics behind machine learning, building practical projects, and continuously sharpening my problem-solving skills.
 
-**Data Science**
-`NumPy` | `Pandas` | `Matplotlib` | `Seaborn`
+**Focus areas:** Artificial Intelligence · Machine Learning · Data Science · Recommendation Systems · Natural Language Processing · Full-Stack Web Development · Open Source
 
-**Tools & Platforms**
-`Git` | `GitHub` | `VS Code` | `Jupyter Notebook`
+---
 
-### 📈 Current Focus
+## Tech Stack
 
-* 📌 Data Analysis & Feature Engineering
-* 📌 Machine Learning Fundamentals
-* 📌 Real-world Projects
-  
-### 🎯 Vision
+| Category | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript, SQL |
+| **Data Science & ML** | NumPy, Pandas, Matplotlib, Scikit-learn, NLTK, LangChain |
+| **Web Development** | HTML, CSS, JavaScript|
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Google Colab |
 
-To build impactful tech solutions and grow into a **world-class Data Scientist & Developer**, contributing to meaningful innovations.
+---
 
-### 🌟 Signature
+## GitHub Statistics
 
-“Consistency beats talent when talent doesn’t stay consistent.”
+<div align="center">
 
+| Stats | Top Languages | Streak |
+|-------|--------------|--------|
+| ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratik-sharma-py&theme=tokyonight) | ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratik-sharma-py&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=Pratik-sharma-py&theme=tokyonight&hide_border=true) |
+
+</div>
+
+---
+
+##  Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Pratik-sharma-py/Pratik-sharma-py/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
  
+</div>
+
+<div align="center">
+
+*"Consistency beats talent when talent doesn't stay consistent."*
+
+Thanks for visiting my profile!
+
 </div>
