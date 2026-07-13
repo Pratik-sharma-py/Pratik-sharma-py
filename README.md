@@ -48,3 +48,7 @@ To build impactful tech solutions and grow into a **world-class Data Scientist &
 “Consistency beats talent when talent doesn’t stay consistent.”
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pratik-sharma-py/Pratik-sharma-py/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+ 
+</div>
